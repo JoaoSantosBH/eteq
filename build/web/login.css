@@ -1,0 +1,56 @@
+/* 
+    Document   : login
+    Created on : Sep 20, 2013, 5:02:26 PM
+    Author     : joaomarcelo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background: #d8d7d2;
+    overflow: hidden;
+    
+}
+
+#login {
+    position: absolute;
+    left: 29%;
+    top: 10%;
+    width:435px;
+    height: 335px;
+    font:Arial, Helvetica;
+    margin: 0px;
+    background: transparent;
+
+}
+
+#login input{
+    width: 300px;
+    padding:10px;
+    background:#FFFFFF;
+    border:1px solid #666;
+    margin: 0px;
+    border-radius:8px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    box-shadow:0 0 10px #ccc;
+    -moz-box-shadow:0 0 10px #ccc;
+    -webkit-box-shadow:0 0 10px #ccc;
+
+}
+#embrulho{background-color:transparent; }
+#login .btn-log{
+    padding:10px;
+    width:100px;
+    background:#666;
+    font:Arial,Helvetica;
+    color:#FFFFFF;
+    float:bottom;
+    border-radius:8px;
+    margin-top:10px;
+    margin-right:20px;
+    border:thin;	
+}
+#login .btn-log:hover{background:#999; cursor:pointer}
+
+

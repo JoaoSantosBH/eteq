@@ -1,0 +1,100 @@
+HTTP Status 500 - javax.servlet.ServletException: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: No operations allowed after connection closed.
+
+type Exception report
+
+message javax.servlet.ServletException: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: No operations allowed after connection closed.
+
+description The server encountered an internal error that prevented it from fulfilling this request.
+
+exception
+
+org.apache.jasper.JasperException: javax.servlet.ServletException: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: No operations allowed after connection closed.
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+root cause
+
+javax.servlet.ServletException: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: No operations allowed after connection closed.
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:912)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:841)
+	org.apache.jsp.index_jsp._jspService(index_jsp.java:462)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+root cause
+
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: No operations allowed after connection closed.
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	java.lang.reflect.Constructor.newInstance(Constructor.java:534)
+	com.mysql.jdbc.Util.handleNewInstance(Util.java:409)
+	com.mysql.jdbc.Util.getInstance(Util.java:384)
+	com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1013)
+	com.mysql.jdbc.SQLError.createSQLException(SQLError.java:987)
+	com.mysql.jdbc.SQLError.createSQLException(SQLError.java:973)
+	com.mysql.jdbc.SQLError.createSQLException(SQLError.java:918)
+	com.mysql.jdbc.ConnectionImpl.throwConnectionClosedException(ConnectionImpl.java:1321)
+	com.mysql.jdbc.ConnectionImpl.checkClosed(ConnectionImpl.java:1313)
+	com.mysql.jdbc.ConnectionImpl.prepareStatement(ConnectionImpl.java:4532)
+	com.mysql.jdbc.ConnectionImpl.prepareStatement(ConnectionImpl.java:4497)
+	persistencia.BaseDados.prepareStatement(BaseDados.java:77)
+	persistencia.AdminDAO.pegarNomeAdmin(AdminDAO.java:32)
+	org.apache.jsp.index_jsp._jspService(index_jsp.java:144)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+root cause
+
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 32,847,606 milliseconds ago.  The last packet sent successfully to the server was 13 milliseconds ago.
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	java.lang.reflect.Constructor.newInstance(Constructor.java:534)
+	com.mysql.jdbc.Util.handleNewInstance(Util.java:409)
+	com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1127)
+	com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3715)
+	com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3604)
+	com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4155)
+	com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2615)
+	com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2776)
+	com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2838)
+	com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2082)
+	com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2212)
+	persistencia.NegociacaoDAO.pegarListaDeNegociacoesAtivas(NegociacaoDAO.java:114)
+	controle.ControladorNegociacao.pegarListaDeNegociacoesAtivas(ControladorNegociacao.java:389)
+	controle.ControladorNegociacao.verificarNegociosPendentesPorRespostasInativas(ControladorNegociacao.java:408)
+	util.AgenteVerificadorNegociosPendentes.run(AgenteVerificadorNegociosPendentes.java:27)
+	java.util.TimerThread.mainLoop(Timer.java:534)
+	java.util.TimerThread.run(Timer.java:484)
+root cause
+
+java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+	com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:3161)
+	com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3615)
+	com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3604)
+	com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4155)
+	com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2615)
+	com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2776)
+	com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2838)
+	com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2082)
+	com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2212)
+	persistencia.NegociacaoDAO.pegarListaDeNegociacoesAtivas(NegociacaoDAO.java:114)
+	controle.ControladorNegociacao.pegarListaDeNegociacoesAtivas(ControladorNegociacao.java:389)
+	controle.ControladorNegociacao.verificarNegociosPendentesPorRespostasInativas(ControladorNegociacao.java:408)
+	util.AgenteVerificadorNegociosPendentes.run(AgenteVerificadorNegociosPendentes.java:27)
+	java.util.TimerThread.mainLoop(Timer.java:534)
+	java.util.TimerThread.run(Timer.java:484)
+note The full stack trace of the root cause is available in the Apache Tomcat/7.0.47 logs.
+
+Apache Tomcat/7.0.47

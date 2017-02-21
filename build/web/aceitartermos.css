@@ -1,0 +1,43 @@
+/* 
+    Document   : cadastro
+    Created on : Nov 12, 2013, 1:54:42 PM
+    Author     : joaomarcelo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body{background: #d8d7d2}
+
+#termo{
+    position: relative;
+    width: 1000px;
+    height: auto;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+
+    font:Arial, Helvetica;
+    margin: auto;
+    background: #d8d7d1;
+
+    box-shadow:0 0 10px #ccc;
+    -moz-box-shadow:0 0 10px #ccc;
+    -webkit-box-shadow:0 0 10px #ccc;
+}
+.btn-log{
+
+    padding:10px;
+    width:100px;
+    background:#666;
+    font:Arial,Helvetica;
+    color:#FFFFFF;
+    float:bottom;
+    border-radius:8px;
+    margin-top:10px;
+    margin-right:20px;
+    border:thin;	
+}
+.btn-log:hover{background:#999; cursor:pointer}

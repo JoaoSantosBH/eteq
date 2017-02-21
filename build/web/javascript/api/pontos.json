@@ -1,0 +1,39 @@
+[
+    {
+        "Id": 1,
+        "Latitude": -19.9302705,
+        "Longitude": -43.965060600000015,
+        "Descricao": "Tenho uma geledeira para trocar!"
+    },
+    {
+        "Id": 2,
+        "Latitude": -19.9190677,
+        "Longitude": -43.938574700000004,
+        "Descricao": "Conteúdo do InfoBox 2"
+    },
+    {
+        "Id": 3,
+        "Latitude": -19.9309904,
+        "Longitude": -43.96572830000002,
+        "Descricao": "Conteúdo do InfoBox 3"
+    },
+    {
+        "Id": 4,
+        "Latitude": -19.923466,
+        "Longitude": -43.961557500000026,
+        "Descricao": "index.jsp" 
+    },
+    {
+        "Id": 5,
+        "Latitude": -19.9278334,
+        "Longitude": -43.964536599999974,
+        "Descricao": "Conteúdo do InfoBox 5"
+    },
+    {
+        "Id": 6,
+        "Latitude": -19.9306571,
+        "Longitude": -43.96870710000002,
+        "Descricao": "Conteúdo do InfoBox 6"
+    }
+
+]

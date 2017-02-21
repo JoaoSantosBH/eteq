@@ -1,0 +1,69 @@
+C S U   P R O N T O S -  [ BackEnd + FrontEnd ]
+=============================================================
+
+CSU01 - EFETUAR CADASTRO                                        
+CSU02 - EFETUAR LOGIN                                           
+CSU03 - PROCURAR PATRIMONIO 
+CSU04 - MANTER ANUNCIO                                          
+CSU05 - SOLICITAR DOACAO 
+CSU06 - INICIAR DOACAO 
+CSU07 - FINALIZAR DOACAO 
+CSU08 - SOLICITAR TROCA PATRIMONIO                               
+CSU09 - ACEITAR TROCA                                             
+CSU10 - FINALIZAR TROCA                                         
+CSU11 - BUSCAR NAS REDONDEZAS (API GOOGLE)
+CSU12 - ENVIAR MENSAGEM                                          
+CSU13 - INCLUIR FOTO PERFIL                                     
+CSU14 - LISTAR MENSAGENS
+CSU15 - LISTAR MEUS PATRIMONIOS CADASTRADOS                     
+CSU16 - LOGAR PELO FACEBOOK(API FB)                 
+CSU17 - RECUPERAR SENHA DE USUARIO
+CSU18 - VISUALIZAR MEU HISTORICO DE ANUNCIOS
+CSU19 - RENOVAR CADASTRO DE PATRIMONIO
+CSU20 - ENVIAR AVISO DE NOVA MENSAGEM
+CSU21 - VERIFICAR IDENTIDADE DO USUARIO(CSU 15 - Facebook)
+CSU22 - LISTAR ULTIMOS PATRIMONIOS CADASTROS (DOA/TROCA)
+CSU23 – VALIDAÇÃO DE CADASTRO POR E-MAIL
+CSU24 - COMPUTAR TROCA DOCACAO
+CSU25 - VERIFICAR SE PATRIMONIO EXPIROU                          
+CSU26 - EMITIR AVISO DE CADASTRO DE PATRIMONIO VENCIDO
+CSU27 - DESATIVAR CADASTRO PATRIMONIO
+CSU28 - MANTER PATRIMONIO
+CSU29 - MANTER FOTO PERFIL
+CSU30 - MANTER PARAMETROS                                       
+CSU31 - EMITIR RELATORIOS DE ANUNCIOS CONCLUIDOS
+CSU32 - VERIFICAR ANUNCIOS PENDENTES                   
+CSU33 - EXCLUIR PERFIL
+
+=============================================================
+
+FORA ESCOPO
+=============
+
+1 - listar doacoes por proximidade
+2 - listar trocas por proximidade
+5 - relatorio mensal e global
+6 - pgn mensagem explode se não tiver logado e sem id parametro
+7 - pgn proposta_troca explode sem idNegocio sem id parametro
+
+
+
+=============================================================
+PENDENTES
+=============================================================
+
+dica segurança
+
+PROBLEMAS
+
+
+1-no ETEQ tem quem tratar nome de produto, removendo acentos e sinais ou símbolos
+ antes de persistir a foto
+
+2-cor dos iconos azul para doação e vermelho trocas
+
+3-fotos panoramicas distorcem
+ colocar dicas segurança
+4- criar pagina ERRO
+8- alternadiv nao funfa facebook
+

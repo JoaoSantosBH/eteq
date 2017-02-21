@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+  <persistence-unit name="EuTenhoEuQueroPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>entidade.UsuarioEntidade</class>
+    <class>entidade.EnderecoEntidade</class>
+    <class>entidade.CategoriaEntidade</class>
+    <class>entidade.SubcategoriaEntidade</class>
+    <class>entidade.ItensSubcategoriaEntidade</class>
+    <class>entidade.ConfigServidorEmailEntidade</class>
+    <class>entidade.PatrimonioEntidade</class>
+    <class>entidade.MensagemEntidade</class>
+    <class>entidade.NegociacaoEntidade</class>
+    <class>entidade.ForumEntidade</class>
+    <class>entidade.HistoricoEntidade</class>
+    <class>entidade.RespostaEntidade</class>
+    <class>entidade.AdminEntidade</class>
+    <class>entidade.CadastroPatrimonioEntidade</class>
+    <class>entidade.TbEstadosEntidade</class>
+    <class>entidade.TbCidadesEntidade</class>
+    <class>entidade.TelefoneEntidade</class>
+    <class>entidade.ParametrosEntidade</class>
+    <class>entidade.PatrimonioEntidade_1</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://192.168.25.26:3306/eutenho?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+    </properties>
+  </persistence-unit>
+</persistence>

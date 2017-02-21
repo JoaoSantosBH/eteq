@@ -1,0 +1,31 @@
+01 - vim conf/server.xml
+
+incluir 
+ logo apôs 
+
+  <Host name="localhost"  appBase="webapps"
+            unpackWARs="true" autoDeploy="true">
+
+isto 
+
+linhas
+
+<Context 
+  path="" 
+  reloadable="true" 
+/>
+
+
+FICANDO ASSIM:
+
+      <Host name="localhost"  appBase="webapps"
+            unpackWARs="true" autoDeploy="true">
+<Context 
+  path="" 
+  reloadable="true" 
+/>
+
+02  -  RenOmeie o arquivo war para  ROOT.war 
+que o  Tomcat da o deploy como ROOT.
+
+
