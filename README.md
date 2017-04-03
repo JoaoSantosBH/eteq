@@ -12,8 +12,8 @@ Outro fator impulsionador do consumismo é a tecnologia, pois seu avanço faz co
 
 
 1.1.2	DESCARTE</br>
-Adquirir novos produtos acarreta em uma nova necessidade, o descarte do item substituído. O antigo bem precisa ser descartado para </br>liberar espaço para o novo. </br>
-E sabemos que descartar ou substituir um patrimônio pode se tornar uma tarefa difícil e dispendiosa em alguns casos. </br>No caso de um sofá, por exemplo, não se pode simplesmente jogá-lo na rua ou no lixo, sendo necessário, NE maioria dos casos, contratar um transporte</br> para o descarte, tornando o processo mais dispendioso. </br>
+Adquirir novos produtos acarreta em uma nova necessidade, o descarte do item substituído. O antigo bem precisa ser descartado para liberar espaço para o novo. </br>
+E sabemos que descartar ou substituir um patrimônio pode se tornar uma tarefa difícil e dispendiosa em alguns casos. </br>No caso de um sofá, por exemplo, não se pode simplesmente jogá-lo na rua ou no lixo, sendo necessário, NE maioria dos casos, contratar um transporte para o descarte, tornando o processo mais dispendioso. </br>
 
 
 1.1.3	NECESSIDADE</br>
