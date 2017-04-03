@@ -18,10 +18,10 @@ E sabemos que descartar ou substituir um patrimônio pode se tornar uma tarefa d
 
 1.1.3	NECESSIDADE</br>
 
-A necessidade de descarte de produtos se torna uma oportunidade de negócios para empreendedores que saibam dar um destino correto para</br> esses produtos.</br>
-Além disso, os produtos a serem descartados podem ser de interesse de outras pessoas, podendo assim, acontecer uma doação ou até mesmo </br>uma troca.</br>
-Mas para que essa doação ou essa troca possa acontecer é necessário que se tenha uma canal de comunicação que possa centralizar esses </br>interesses, ou seja, um local comum onde as pessoas possam oferecer e receber doações e também possam realizar trocas de produtos.</br>
-Com isso, um sistema de informação para internet seria de extrema importância para aproximar pessoas com necessidade de descartar </br>produtos a pessoas que possam aproveitar esse descarte de alguma forma. Esse sistema de informação passaria a fornecer um meio de </br>comunicação direta entre as pessoas.</br>
+A necessidade de descarte de produtos se torna uma oportunidade de negócios para empreendedores que saibam dar um destino correto para esses produtos.</br>
+Além disso, os produtos a serem descartados podem ser de interesse de outras pessoas, podendo assim, acontecer uma doação ou até mesmo uma troca.</br>
+Mas para que essa doação ou essa troca possa acontecer é necessário que se tenha uma canal de comunicação que possa centralizar esses interesses, ou seja, um local comum onde as pessoas possam oferecer e receber doações e também possam realizar trocas de produtos.</br>
+Com isso, um sistema de informação para internet seria de extrema importância para aproximar pessoas com necessidade de descartar produtos a pessoas que possam aproveitar esse descarte de alguma forma. Esse sistema de informação passaria a fornecer um meio de comunicação direta entre as pessoas.</br>
 
 
 
@@ -32,10 +32,10 @@ O principal objetivo deste projeto de fim de curso é desenvolver um sistema web
 
 1.3	JUSTIFICATIVA</br>
 
-O sistema “EuTenho EuQuero”, supre uma lacuna, um canal inexistente, atuando na necessidade de pessoas que desejam doar/receber/trocar </br>algum tipo de produto. </br>
-Este sistema criaria uma relação simbiótica impactando diretamente na redução de lixo gerado pelo descarte atual impulsionado pelo </br>consumo.</br>
+O sistema “EuTenho EuQuero”, supre uma lacuna, um canal inexistente, atuando na necessidade de pessoas que desejam doar/receber/trocar algum tipo de produto. </br>
+Este sistema criaria uma relação simbiótica impactando diretamente na redução de lixo gerado pelo descarte atual impulsionado pelo consumo.</br>
 
-Este projeto foi desenvolvido através do aprendizado das seguintes disciplinas: Programação de Computadores, Algoritmos E Estrutura de </br>Dados, Sistemas de Informação, Análise de Sistemas, Interface Humano Computador, Engenharia de Software, Programação Web, </br>Linguagens de Programação, Banco de Dados e Redes de Computadores.</br>
+Este projeto foi desenvolvido através do aprendizado das seguintes disciplinas: Programação de Computadores, Algoritmos E Estrutura de Dados, Sistemas de Informação, Análise de Sistemas, Interface Humano Computador, Engenharia de Software, Programação Web, Linguagens de Programação, Banco de Dados e Redes de Computadores.</br>
 Além do aprendizado tecnológico de programação na linguagem Java, aprendido durante o decorrer do curso, foi importante a experiência de</br> ter uma ideia e transformá-la em um sistema, descobrir e documentar os requisitos necessários para construção desse sistema, </br>utilizando modelos e diagramas UML aprendidos durante as aulas, uma ótima oportunidade de por em prática o conhecimento adquirido. </br>Também muito importante foram os casos de teste, que proporcionam um ponto de vista além da programação, ajudando a sair da linha</br> de raciocínio de programador. </br>
 Somado a todo este aprendizado, ainda foi muito importante a experiência e o conhecimento do orientador, que colaborou com seu</br> conhecimento e experiência através de importantes dicas, ajudando a consolidar a realização do projeto de maneira objetiva e correta.</br>
 A experiência de realizar este projeto, com certeza mudou meus conhecimentos e conceitos sobre análise e desenvolvimento e também a </br>forma de modelar um sistema de forma mais objetiva e eficaz.
