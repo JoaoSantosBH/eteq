@@ -7,8 +7,8 @@ Sistema colaborativo de troca e doações entre seus usuários, desenvolvido com
 1.1.1	CONSUMISMO</br>
 A sociedade contemporânea, muito consumista, faz o indivíduo se tornar pré-disposto a consumir com uma frequência cada vez maior. </br>Esse modelo de consumo gera uma “obsolescência” programada, reduzindo a vida útil dos bens de consumo, gerando uma necessidade de troca ou descarte. </br>
 Fatores como a moda também podem fazer com que um item (uma roupa, um sofá, etc..) não seja mais adequado para o individuo. </br>
-O crescimento da família é outro fator que pode também acarretar demanda por novos patrimônios, pois um numero maior de indivíduos</br> aumenta o volume de demanda, exigindo, por exemplo, a troca de utensílios domésticos para suprir tal demanda, tais como, máquina de </br>lavar roupas, geladeira, fogão, etc. .</br>
-Outro fator impulsionador do consumismo é a tecnologia, pois seu avanço faz com que computadores e dispositivos móveis se tornem </br>obsoletos rapidamente, gerando necessidade de trocar ou atualizar o produto.</br>
+O crescimento da família é outro fator que pode também acarretar demanda por novos patrimônios, pois um numero maior de indivíduos aumenta o volume de demanda, exigindo, por exemplo, a troca de utensílios domésticos para suprir tal demanda, tais como, máquina de lavar roupas, geladeira, fogão, etc. .</br>
+Outro fator impulsionador do consumismo é a tecnologia, pois seu avanço faz com que computadores e dispositivos móveis se tornem obsoletos rapidamente, gerando necessidade de trocar ou atualizar o produto.</br>
 
 
 1.1.2	DESCARTE</br>
