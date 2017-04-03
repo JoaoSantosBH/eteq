@@ -27,7 +27,7 @@ Com isso, um sistema de informação para internet seria de extrema importância
 
 1.2	OBJETIVO</br>
 
-O principal objetivo deste projeto de fim de curso é desenvolver um sistema web (sistema de informação para internet), que cumpra o</br> papel de estabelecer o contato direto entre um doador e um receptor, através do fornecimento de listas de doações e trocas.</br>
+O principal objetivo deste projeto de fim de curso é desenvolver um sistema web (sistema de informação para internet), que cumpra o papel de estabelecer o contato direto entre um doador e um receptor, através do fornecimento de listas de doações e trocas.</br>
 
 
 1.3	JUSTIFICATIVA</br>
@@ -36,9 +36,9 @@ O sistema “EuTenho EuQuero”, supre uma lacuna, um canal inexistente, atuando
 Este sistema criaria uma relação simbiótica impactando diretamente na redução de lixo gerado pelo descarte atual impulsionado pelo consumo.</br>
 
 Este projeto foi desenvolvido através do aprendizado das seguintes disciplinas: Programação de Computadores, Algoritmos E Estrutura de Dados, Sistemas de Informação, Análise de Sistemas, Interface Humano Computador, Engenharia de Software, Programação Web, Linguagens de Programação, Banco de Dados e Redes de Computadores.</br>
-Além do aprendizado tecnológico de programação na linguagem Java, aprendido durante o decorrer do curso, foi importante a experiência de</br> ter uma ideia e transformá-la em um sistema, descobrir e documentar os requisitos necessários para construção desse sistema, </br>utilizando modelos e diagramas UML aprendidos durante as aulas, uma ótima oportunidade de por em prática o conhecimento adquirido. </br>Também muito importante foram os casos de teste, que proporcionam um ponto de vista além da programação, ajudando a sair da linha</br> de raciocínio de programador. </br>
-Somado a todo este aprendizado, ainda foi muito importante a experiência e o conhecimento do orientador, que colaborou com seu</br> conhecimento e experiência através de importantes dicas, ajudando a consolidar a realização do projeto de maneira objetiva e correta.</br>
-A experiência de realizar este projeto, com certeza mudou meus conhecimentos e conceitos sobre análise e desenvolvimento e também a </br>forma de modelar um sistema de forma mais objetiva e eficaz.
+Além do aprendizado tecnológico de programação na linguagem Java, aprendido durante o decorrer do curso, foi importante a experiência de ter uma ideia e transformá-la em um sistema, descobrir e documentar os requisitos necessários para construção desse sistema, utilizando modelos e diagramas UML aprendidos durante as aulas, uma ótima oportunidade de por em prática o conhecimento adquirido. </br>Também muito importante foram os casos de teste, que proporcionam um ponto de vista além da programação, ajudando a sair da linha</br> de raciocínio de programador. </br>
+Somado a todo este aprendizado, ainda foi muito importante a experiência e o conhecimento do orientador, que colaborou com seu conhecimento e experiência através de importantes dicas, ajudando a consolidar a realização do projeto de maneira objetiva e correta.</br>
+A experiência de realizar este projeto, com certeza mudou meus conhecimentos e conceitos sobre análise e desenvolvimento e também a forma de modelar um sistema de forma mais objetiva e eficaz.
 </br>
 
 
