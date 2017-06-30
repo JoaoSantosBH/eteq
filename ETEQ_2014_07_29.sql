@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `eutenho` /*!40100 DEFAULT CHARACTER SET latin1 *
 USE `eutenho`;
 -- MySQL dump 10.13  Distrib 5.5.16, for osx10.5 (i386)
 --
--- Host: 192.168.25.26    Database: eutenho
+-- Host: 192.168.x.x    Database: eutenho
 -- ------------------------------------------------------
 -- Server version	5.0.95
 
